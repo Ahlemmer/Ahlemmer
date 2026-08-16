@@ -13,7 +13,7 @@
 ### 🙋‍♀️ About Me
 
 - 🔭 I’m currently building **responsive front-end interfaces** and **interactive business intelligence dashboards**.
-- 💬 Ask me about **React, React Native, Tailwind CSS, SQL, and Power BI**.
+- 💬 Ask me about **React, React Native, Tailwind CSS, SQL, and Power BI,Pandas**.
 - 📫 How to reach me: **ahlemmerabtene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
