@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahlem Merabtene</h1>
 <h3 align="center">A passionate Frontend Developer & Data Analyst from Algeria</h3>
+<p align="center"><i>Bridging the gap between beautiful user interfaces and actionable data insights.</i></p>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
@@ -12,8 +13,12 @@
 
 ### 🙋‍♀️ About Me
 
+Welcome to my profile! I am a versatile developer who loves combining design with data. With a strong foundation in modern front-end technologies like React and Tailwind CSS, I specialize in building responsive, intuitive web and mobile applications. 
+
+Complementing my front-end expertise, I am deeply passionate about data science and business intelligence. I leverage Python, PostgreSQL, and Power BI to prepare complex datasets, conduct statistical analyses, and design interactive dashboards. Whether I am crafting mobile-optimized UI layouts, configuring A/B testing heatmaps, or exploring predictive modeling, I am dedicated to creating visually engaging, data-driven solutions.
+
 - 🔭 I’m currently building **responsive front-end interfaces** and **interactive business intelligence dashboards**.
-- 💬 Ask me about **React, React Native, Tailwind CSS, SQL, and Power BI,Pandas**.
+- 💬 Ask me about **React, React Native, Tailwind CSS, SQL, and Power BI**.
 - 📫 How to reach me: **ahlemmerabtene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
