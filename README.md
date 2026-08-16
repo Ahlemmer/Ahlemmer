@@ -18,7 +18,7 @@ Welcome to my profile! I am a versatile developer who loves combining design wit
 Complementing my front-end expertise, I am deeply passionate about data science and business intelligence. I leverage Python, PostgreSQL, and Power BI to prepare complex datasets, conduct statistical analyses, and design interactive dashboards. Whether I am crafting mobile-optimized UI layouts, configuring A/B testing heatmaps, or exploring predictive modeling, I am dedicated to creating visually engaging, data-driven solutions.
 
 - 🔭 I’m currently building **responsive front-end interfaces** and **interactive business intelligence dashboards**.
-- 💬 Ask me about **React, React Native, Tailwind CSS, SQL, and Power BI**.
+- 💬 Ask me about **React, React Native, Tailwind CSS, SQL, and Power BI,Pandas**.
 - 📫 How to reach me: **ahlemmerabtene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
